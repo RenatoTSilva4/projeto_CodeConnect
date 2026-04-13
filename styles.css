@@ -167,7 +167,7 @@ textarea {
     background-color: var(--primary-color);
     color: var(--background-color);
     border: none;
-    padding: relative;
+    position: relative;
 }
 
 .botao-publicar::after {
